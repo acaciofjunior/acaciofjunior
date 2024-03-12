@@ -2,6 +2,7 @@
 ### Just welcome 👋
 <br>
 
+![jr lang](https://github-readme-stats.vercel.app/api/top-langs/?username=acaciofjunior&theme=aura)
 ![jr stats](https://github-readme-stats.vercel.app/api?username=acaciofjunior&theme=aura)
 
 Follow me in my social medias:
